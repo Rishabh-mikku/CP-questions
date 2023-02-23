@@ -37,6 +37,7 @@ public class J44_DuplicateElemetsString {
 
         J44_DuplicateElemetsString obj = new J44_DuplicateElemetsString();
         obj.duplicate_Elements_String(s);
+        
         sc.close();
     }
 }
